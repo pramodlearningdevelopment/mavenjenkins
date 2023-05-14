@@ -48,7 +48,7 @@
 					</suiteXmlFiles>
 					
 					<systemPropertyVariables>
-					<browser>Edge</browser>
+					<browser>${Browser}</browser>
 					
 					</systemPropertyVariables>
 					
